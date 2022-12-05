@@ -9,3 +9,5 @@
 <code>$ sudo apt intall python3</code>
 
 <code>$ python3 -m pip install Pillow</code>
+
+<code>$ git clone </code>
