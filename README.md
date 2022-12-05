@@ -10,4 +10,4 @@
 
 <code>$ python3 -m pip install Pillow</code>
 
-<code>$ git clone </code>
+<code>$ python compressor.py </code>
